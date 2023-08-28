@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	코드 합치기 완료!!!
+
 </body>
 </html>
